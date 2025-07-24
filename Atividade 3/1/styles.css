@@ -1,0 +1,39 @@
+
+header {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid blue;
+}
+
+main {
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid green;
+}
+
+footer {
+    background-color: lightgray;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid gray;
+}
+
+h2 {
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: white;
+}
+
+#importante {
+    border-top: 6px solid red;
+    padding-top: 10px;
+} 
